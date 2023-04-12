@@ -1,0 +1,1 @@
+var posts=["2023/04/12/我是吊毛/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
